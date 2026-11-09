@@ -39,3 +39,6 @@ console.log("End of asynchronous code");
 
 // Callbacks are functions that are passed as arguments to other functions and are executed after a certain operation is completed. 
 // They can be used to handle asynchronous operations, but they can lead to callback hell if not managed properly.
+//callback
+
+// Pyramid of doom  
